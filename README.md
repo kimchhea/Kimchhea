@@ -1,5 +1,5 @@
 # 💻 Hello, I'm **Kimchhea Phon** 👨‍💻
-
+![GIF Description](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 ### 🚀 **Frontend Developer | Coder | Problem Solver**
 
 I’m passionate about web development and always eager to learn new technologies. With a focus on creating modern and dynamic web applications, I strive to make the web a better place for everyone. Here’s a glimpse of my journey and skills!
@@ -27,9 +27,9 @@ I’m passionate about web development and always eager to learn new technologie
 
 ## 📚 **Featured Projects**
 
-### 🚀 **Pathfinder**
-[**Check it out**](#)
-A platform designed to help IT students in Cambodia find the right programming courses to advance their careers.
+### 🚀 **Anime website**
+[**Check it out**](https://github.com/kimchhea/Anime-website.git)
+A static anime website that designed with hmtl css bootstrap and java script.
 
 ### 💻 **Personal Portfolio**
 [**Explore my work**](#)
@@ -49,12 +49,6 @@ A showcase of my web development projects, design skills, and achievements.
 I’m not just a coder — I’m also passionate about **football** and **gaming**. They help keep my mind sharp and boost my creativity in coding.
 
 ---
-
-## 📝 **Blog Posts**
-
-- [**My Journey as a Frontend Developer**](#)
-- [**Mastering React.js**](#)
-- [**Building Dynamic Web Apps with Tailwind CSS**](#)
 
 ---
 
