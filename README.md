@@ -42,10 +42,6 @@ A static anime website that designed with hmtl css bootstrap and java script.
 
 ---
 
-## 🎮 **Fun Fact**
-I’m not just a coder — I’m also passionate about **football** and **gaming**. They help keep my mind sharp and boost my creativity in coding.
-
----
 
 ---
 
