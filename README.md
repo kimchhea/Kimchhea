@@ -44,4 +44,4 @@ A static anime website that designed with hmtl css bootstrap and java script.
 
 
 
-## 🔥 **Thanks for visiting my profile!** Feel free to explore my repositories, reach out, or collaborate with me. Let’s make something amazing together! 🚀
+## 🔥 **Thanks for visiting my profile!** Feel free to explore my repositories, reach out, or collaborate with me. Let’s make something amazing together! 
