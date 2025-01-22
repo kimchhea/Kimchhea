@@ -10,7 +10,7 @@ I’m passionate about web development and always eager to learn new technologie
 
 | **Frontend**  | **Backend**  | **Tools & Others**  |
 | ------------- | ------------ | ------------------ |
-| ![HTML5](https://img.shields.io/badge/HTML5-Web%20Structure-blue) | | ![Git](https://img.shields.io/badge/Git-Version%20Control-orange) |
+| ![HTML5](https://img.shields.io/badge/HTML5-Web%20Structure-blue)  | ![Git](https://img.shields.io/badge/Git-Version%20Control-orange) |
 | ![CSS3](https://img.shields.io/badge/CSS3-Responsive%20Design-blue) | ![PHP](https://img.shields.io/badge/PHP-Backend%20Programming-pink) | ![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-Dynamic%20Web%20Apps-yellow) | ![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-blue) | ![VS Code](https://img.shields.io/badge/VS%20Code-IDE-blue) |
 | ![React.js](https://img.shields.io/badge/React.js-JavaScript%20Library-blue) |  | ![Postman](https://img.shields.io/badge/Postman-API%20Testing-yellow) |
