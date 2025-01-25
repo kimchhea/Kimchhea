@@ -30,7 +30,6 @@ I’m passionate about web development and always eager to learn new technologie
 ### 🚀 **Anime website**
 [**Check it out**](https://github.com/kimchhea/Anime-website.git)
 A static anime website that designed with hmtl css bootstrap and java script.
-
 ---
 
 ## 🌐 **Let's Connect!**
