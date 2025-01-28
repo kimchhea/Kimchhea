@@ -27,8 +27,6 @@ I’m passionate about web development and always eager to learn new technologie
 
 ## 📚 **Featured Projects**
 
-### 🚀 **Anime website**
-A static anime website that designed with hmtl css bootstrap and java script.
 ---
 
 ## 🌐 **Let's Connect!**
