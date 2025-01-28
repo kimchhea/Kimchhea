@@ -2,7 +2,7 @@
 ![GIF Description](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 ### 🚀 **Frontend Developer | Coder | Problem Solver**
 
-I’m passionate about web development and always eager to learn new technologies. With a focus on creating modern and dynamic web applications, I strive to make the web a better place for everyone. Here’s a glimpse of my journey and skills!
+I’m passionate about web development and always eager to learn new technologies. With a focus on creating modern and dynamic web applications, I strive to make the web a better place for everyone. Here’s a list of my journey and skills!
 
 ---
 
