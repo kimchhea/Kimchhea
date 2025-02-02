@@ -37,5 +37,4 @@ I’m passionate about web development and always eager to learn new technologie
 
 ---
 
-
 ## 🔥 **Thanks for visiting my profile!** Feel free to explore my repositories, reach out, or collaborate with me. Let’s make something amazing together! 
